@@ -1,2 +1,2 @@
-# CS230-Entrepreneurism-Ethics
-All information about this project is under the Wiki tab on top of the github webpage.
+Welcome to Veracity, where curious minds can discern factual information in politics from the rest. Please visit our wiki page for more information.
+https://github.com/liuyang3141/CS230ENT/wiki
